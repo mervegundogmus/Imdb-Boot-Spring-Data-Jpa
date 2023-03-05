@@ -8,11 +8,6 @@ import org.springframework.stereotype.Service;
 
 import com.example.imdb.service.SequenceService;
 
-/**
- * 
- * @author Binnur Kurt
- *
- */
 @Service
 @Scope("singleton")
 public class SequenceServiceImpl implements SequenceService {
