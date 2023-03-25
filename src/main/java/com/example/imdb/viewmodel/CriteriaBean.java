@@ -3,11 +3,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 import com.example.imdb.entity.Movie;
-/**
- * 
- * @author Binnur Kurt
- *
- */
+
 public class CriteriaBean {
 	private boolean yearRangeSelected;
 	private Integer fromYear;
