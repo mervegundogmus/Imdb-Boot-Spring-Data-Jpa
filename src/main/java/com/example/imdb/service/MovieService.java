@@ -6,11 +6,6 @@ import com.example.imdb.entity.Genre;
 import com.example.imdb.entity.Movie;
 import com.example.imdb.viewmodel.CriteriaBean;
 
-/**
- * 
- * @author Binnur Kurt
- *
- */
 public interface MovieService {
 	Movie findMovieById(int id);
 
