@@ -1,9 +1,5 @@
 package com.example.imdb.entity;
-/**
- * 
- * @author Binnur Kurt
- *
- */
+
 public class Director {
 	private int id;
 	private String name;
