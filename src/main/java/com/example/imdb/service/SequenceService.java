@@ -1,9 +1,5 @@
 package com.example.imdb.service;
-/**
- * 
- * @author Binnur Kurt
- *
- */
+
 public interface SequenceService {
 	long nextId(String sequenceName);
 
