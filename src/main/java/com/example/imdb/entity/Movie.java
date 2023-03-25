@@ -2,11 +2,6 @@ package com.example.imdb.entity;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 
- * @author Binnur Kurt
- *
- */
 public class Movie {
 	private int id;
 	private String title;
