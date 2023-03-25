@@ -25,11 +25,6 @@ import com.example.imdb.service.MovieService;
 import com.example.imdb.service.SequenceService;
 import com.example.imdb.viewmodel.CriteriaBean;
 
-/**
- * 
- * @author Binnur Kurt
- *
- */
 @Repository
 @Scope("singleton")
 //@Profiling
